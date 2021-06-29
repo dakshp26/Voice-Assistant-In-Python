@@ -1,4 +1,4 @@
-# Voice-Assistant-In-Python
+# Voice Assistant In Python
 
 The voice assistant has a wake keyword to which it responds when person around the mic says it.
 

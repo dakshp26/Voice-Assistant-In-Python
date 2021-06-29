@@ -5,7 +5,7 @@ The voice assistant has a wake keyword to which it responds when person around t
 It provides the following functionality:
 - Tells us about the day's events using Google Calendar API and automatically identifies the day we are talking about 
 (Eg: "what do i have on monday?" will return a list of events for the upcoming monday so the user doesnt have to provide date and be very specific)
-- Wite a note for us
+- Write a note for us
 (Eg: "make a note" will trigger the assistant to make a note of anything we say after it says "What would you like me to write down?")
 
 Have used the following libraries for this project:
